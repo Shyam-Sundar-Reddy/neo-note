@@ -6,7 +6,7 @@ function Header() {
     <header>
       <h1>
       
-        neo-note
+      📝  neo-note
       </h1>
     </header>
   );
